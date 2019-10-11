@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MarcLignarius/MERN.ShoppingList/issues"
   },
-  "homepage": "https://github.com/MarcLignarius/MERN.ShoppingList#readme"
+  "homepage": "https://github.com/MarcLignarius/MERN.ShoppingList#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
