@@ -1,4 +1,3 @@
-import uuid from 'uuid';
 import { GET_ITEMS, ADD_ITEM, DELETE_ITEM, ITEMS_LOADING } from '../actions/types';
 
 const initialState = {
@@ -10,7 +9,9 @@ export default function (state = initialState, action) {
   switch(action.type) {
     case GET_ITEMS:
       return {
-        ...state
+        ...state,
+        items: action.payload,
+        loading: false
       }
     case ADD_ITEM:
       return {
