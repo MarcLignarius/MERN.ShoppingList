@@ -34,7 +34,7 @@ class RegisterModal extends Component {
 
   componentDidUpdate(prevProps) {
     const { error , isAuthenticated} = this.props;
-    if(error != prevProps.error) {
+    if(error !== prevProps.error) {
       // Check for register error
       if(error.id === 'REGISTER_FAIL') {
         this.setState({ msg: error.msg.msg})
@@ -87,7 +87,7 @@ class RegisterModal extends Component {
         <Modal isOpen={this.state.modal} toggle={this.toggle}>
           <ModalHeader toggle={this.toggle}>Register</ModalHeader>
           <ModalBody>
-            {this. state.msg ? (
+            {this.state.msg ? (
               <Alert color="danger">{this.state.msg}</Alert>
             ) : null}
             <Form onSubmit={this.onSubmit}>
