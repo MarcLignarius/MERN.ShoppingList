@@ -45,7 +45,7 @@ This application allows users to add and delete items from a list. Default acces
 
 Alternatively, visit https://agile-atoll-44271.herokuapp.com/ to see the live version of the application.
 
-## Known Bugs## User Stories
+## Known Bugs
 There are no known bugs as of that last release.
 
 ## Support and Contact Details
