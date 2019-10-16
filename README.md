@@ -34,14 +34,6 @@ This application allows users to add and delete items from a list. Default acces
   * _Jsonwebtoken: 8.5.1_
   * _Mongoose: 5.7.4_
 
-  "bcryptjs": "^2.4.3",
-    "concurrently": "^5.0.0",
-    "config": "^3.2.3",
-    "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
-    "mongodb": "^3.3.2",
-    "mongoose": "^5.7.4"
-
 ## Setup and Installation
 
 * Launch your terminal.
