@@ -43,7 +43,7 @@ This application allows users to add and delete items from a list. Default acces
 * `npm install` This will allow the viewer of this project to have access to the CLI (command line interface) for webpack.
 * `npm run dev` to launch the app which will be hosted at  http://localhost:3000/
 
-Alternatively, visit https://agile-atoll-44271.herokuapp.com/ to see the live version of the application.
+Alternatively, visit https://agile-atoll-44271.herokuapp.com/ to see the live version of the application. Please note it may take up to a minute or so for the application to open.
 
 ## Known Bugs
 There are no known bugs as of that last release.
