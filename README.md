@@ -49,6 +49,6 @@ Alternatively, visit https://agile-atoll-44271.herokuapp.com/ to see the live ve
 There are no known bugs as of that last release.
 
 ## Support and Contact Details
-Please contact me at marcdaviesriot@gmail.com if you have any questions. Your feedback is always welcomed!
+Please contact me via <a href="https://www.linkedin.com/in/marcdaviesriot/">LinkedIn</a> if you have any questions. Your feedback is always welcomed!
 
 Copyright (c) 2019 **_Marc Davies_**
